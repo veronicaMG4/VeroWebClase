@@ -1,9 +1,18 @@
 p{
-	text-align: center;
-	background-color: green;
+	
+	background-color: grey;
 	color: white;
 }
 
 main.container{
 margin-top:4rem;
+}
+
+section{
+	
+	color: red;
+	margin: 100px;
+	padding: auto;
+	border: black solid;
+	display: block;
 }
